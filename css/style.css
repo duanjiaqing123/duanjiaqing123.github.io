@@ -8,15 +8,8 @@ html, body{
    font-size: 100%;
    background:#fff; 
 }
-body a{
-	transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
-/*-- Header Part Starts Here ---*/
+
 .header{
 	padding:3em 0;
 	text-align: center;
@@ -102,7 +95,7 @@ ul.navig li a:hover,ul.navig li a.active{
 	color:#716A72
 	}
 }
-/*-- Header Part Ends Here ---*/
+
 .banner{
         background:url("../images/232392270903246860%20(1).jpg") no-repeat;
         background-size: 100% 100%;
@@ -194,12 +187,6 @@ ul.slides li h5{
      	color:#fff;                     
  }
 
-.portfolio{
-  	background:#FAFAFA;
-}
-.portfolio-bottom{
-    	background:#fff;
-}
 .contact-top1 h3,.contact-top2 h3,.contact-top3 h3{
         font-size:1.8em;
         font-weight:700;
@@ -333,7 +320,7 @@ ul.slides li h5{
 	text-indent: 100%;
 	background: url(../images/scroll-top.png) no-repeat 0px 0px;
 }
-/*---/project-tabs Starts Here----*/
+
 .tabs-box {
 position:relative;
 }
@@ -413,20 +400,13 @@ ul.tabs-menu li a:hover{
 ul.tabs-menu li a img{
 	padding-right:10px;
 }
-/*---//project-tabs ends Here----*/
-
 @media (max-width:1366px){
 .banner{
 	min-height: 581px;
 	}
-.project-1 input[type="submit"]{
-	margin: 0px -5px;
-	}
 }
 @media (max-width:1280px){
-.mother-grid {
-	padding: 2em 0px;
-}
+
 .banner {
 	min-height: 550px;
 }
@@ -440,9 +420,7 @@ ul.tabs-menu li a img{
 .banner {
 	min-height: 473px;
 }
-.about-bottom a p.para1 {
-	width: 99%;
-}
+
 .header h1 {
 	padding-bottom: 0.2em;
 }
@@ -452,9 +430,7 @@ ul.tabs-menu li a img{
 .nav-top ul li {
 	padding-left: 3em;
 }
-.about {
-	padding: 4em 0px;
-}
+
 .content {
 	padding: 2em 0px 3.5em 0px;
 }
@@ -463,12 +439,6 @@ ul.tabs-menu li a img{
 }
 .content-left {
 	width: 27%;
-}
-.project-1 input[type="text"] {
-	width: 32%;
-}
-.project-1 input[type="submit"] {
-	width: 10%;
 }
 .line1 img {
 	width: 97%;
@@ -705,9 +675,6 @@ span.menu img {
 	padding: 0.5em 2.3em;
 	font-size: 14px;
 }
-.about-top a {
-	padding: 8px 1.2em;
-}
 ul.tabs-menu li a img {
 	padding-right: 5px;
 	width: 12%;
@@ -770,16 +737,6 @@ ul.tabs-menu li a {
 	.content-right p {
 		width: 100%;
 	}
-	.project-1 h3 {
-		font-size: 1.1em;
-	}	
-	.project-1 p {
-		font-size: 17px;
-	}
-	.mother-grid {
-		padding: 10px 0px;
-		margin-bottom: 5px;
-	}
 	.header h1 {
 		margin: 0px 0px;
 		padding: 0px;
@@ -787,10 +744,6 @@ ul.tabs-menu li a {
 	.content {
 		padding: 0.5em 0px 1em 0px;
 	}
-	.project {
-		padding: 1em 0px 1.5em 0px;
-	}
-
 	.contact-top1 h3, .contact-top2 h3, .contact-top3 h3 {
 		font-size: 1.2em;
 		padding-top: 0px;
