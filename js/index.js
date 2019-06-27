@@ -397,7 +397,7 @@ var Fireworks = function(){
 /* GUI
 /*=============================================================================*/	
 var guiPresets = {
-			  "preset": "Default",
+			  "preset": "第一种形态",
 			  "remembered": {
 				"Default": {
 				  "0": {
@@ -419,7 +419,7 @@ var guiPresets = {
 					"clearAlpha": 25
 				  }
 				},
-				"Anti Gravity": {
+				"第二种形态": {
 				  "0": {
 					"fworkSpeed": 4,
 					"fworkAccel": 10,
@@ -439,7 +439,7 @@ var guiPresets = {
 					"clearAlpha": 50
 				  }
 				},
-				"Battle Field": {
+				"第三种形态": {
 				  "0": {
 					"fworkSpeed": 10,
 					"fworkAccel": 20,
@@ -459,7 +459,7 @@ var guiPresets = {
 					"clearAlpha": 40
 				  }
 				},
-				"Mega Blast": {
+				"第四种形态": {
 				  "0": {
 					"fworkSpeed": 3,
 					"fworkAccel": 3,
@@ -479,7 +479,7 @@ var guiPresets = {
 					"clearAlpha": 20
 				  }
 				},
-				"Nimble": {
+				"第五种形态": {
 				  "0": {
 					"fworkSpeed": 10,
 					"fworkAccel": 50,
@@ -499,7 +499,7 @@ var guiPresets = {
 					"clearAlpha": 80
 				  }
 				},
-				"Slow Launch": {
+				"第六种形态": {
 				  "0": {
 					"fworkSpeed": 2,
 					"fworkAccel": 2,
@@ -519,7 +519,7 @@ var guiPresets = {
 					"clearAlpha": 10
 				  }
 				},
-				"Perma Trail": {
+				"第七种形态": {
 				  "0": {
 					"fworkSpeed": 4,
 					"fworkAccel": 10,
